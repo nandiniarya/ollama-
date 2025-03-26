@@ -1,0 +1,5 @@
+chromadb
+llama_index
+numpy
+pandas
+yfinance
